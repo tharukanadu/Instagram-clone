@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+![Screenshot 2023-10-28 161345](https://github.com/tharukanadu/Instagram-clone/assets/91652221/3f8a2137-6f8f-4a19-a14c-dbee0a8cbb0a)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
