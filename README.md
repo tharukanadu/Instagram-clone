@@ -6,4 +6,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 
-click: [[https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)](https://65dd6f1fffbd6f7e3895eb56--stalwart-raindrop-240a5e.netlify.app/)https://65dd6f1fffbd6f7e3895eb56--stalwart-raindrop-240a5e.netlify.app/
+click: https://65dd6f1fffbd6f7e3895eb56--stalwart-raindrop-240a5e.netlify.app/
